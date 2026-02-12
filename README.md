@@ -1,2 +1,3 @@
 # Heart-Disease-Prediction-Dataset
 A machine learning decision-support tool predicting 10-year heart disease risk with 86.4% accuracy using the Framingham dataset. It features a Flask web interface providing transparent clinical reasoning and patient-friendly insights based on key biomarkers like blood pressure and glucose levels.
+<img width="694" height="1305" alt="ZLLhRjj64FulG7SOo2WY0RQZn6wGo74SYR8g0r8WM7qWA09ZI0x5hPQxnEvIgbhq3FtVNpr6pzCBz0gTNJrCnsuH2X39RsVccpVVMuV6LOLiDknIg18D5X1ZibmONQaqqb8RE1g5gow2YHChuJRmQxC1CFT6ThBdKN_qTTUZr_Vwv-TdPwyyD" src="https://github.com/user-attachments/assets/781c076b-d845-41ae-aeea-bb7331650b99" />
